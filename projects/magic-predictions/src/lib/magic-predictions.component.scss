@@ -1,0 +1,40 @@
+.magic-predictions {
+  display: flex;
+  justify-content: center;
+
+  .magic-predictions_content {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+  }
+
+  .magic-predictions_button {
+    display: flex;
+    justify-content: center;
+
+    button {
+      color: honeydew;
+      background-color: midnightblue;
+      font-size: 15px;
+    }
+  }
+
+  .red {
+    background-color: oldlace;
+    color: red;
+   }
+
+  .blue {
+    background-color: oldlace;
+    color: blue;
+  }
+
+  .yellow {
+    background-color: oldlace;
+    color: yellow;
+  }
+
+  .green {
+    background-color: oldlace;
+    color: green;
+  }
+}
