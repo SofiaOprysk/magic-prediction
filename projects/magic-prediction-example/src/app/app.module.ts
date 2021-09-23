@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import { MagicPredictionsModule } from 'magic-predictions'
+import { MagicPredictionsModule } from '@oprysk.sofia/magic-predictions';
 
 import { AppComponent } from './app.component';
 
